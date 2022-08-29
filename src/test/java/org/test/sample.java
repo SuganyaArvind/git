@@ -42,7 +42,9 @@ public class sample {
 					
 					count++;
 					System.out.println("Broken Link is : "+attribute);
-				System.out.println("Suganya");
+					System.out.println("Suganya");
+					System.out.println("Suganya2");
+
 			}
 			
 		}
